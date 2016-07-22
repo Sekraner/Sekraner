@@ -16,7 +16,7 @@ table {
 #comic {
     position:absolute;
     top: 250px;
-
+    left: 10px;
     width: 100px;
 }
 
