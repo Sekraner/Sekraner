@@ -6,15 +6,16 @@ table {
     position: center;
 }
 #art {
-    position: relative;
+    text-align: center
+    /*position: relative;
      top: 250px;
     left: 100px;
-    width: 100px;
+    width: 100px;*/
 }
 #comic {
-    position:relative;
+    position:absolute;
     top: 250px;
-    left: 200px;
+
     width: 100px;
 }
 
