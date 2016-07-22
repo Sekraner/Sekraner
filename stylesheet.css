@@ -9,6 +9,10 @@ table {
     position: relative;
     left: 100px;
     width: 100px;
-    
+}
+#comic {
+    position:relative;
+    left: 200px;
+    width: 100px;
 }
 
