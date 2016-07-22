@@ -10,13 +10,14 @@ table {
     position: relative;
     left: 100px;
     top: 250px;
-    width: 100px;
+    width: 400px;
     text-align: center;
 }
 #comic {
-    position:absolute;
+    position:relative;
     top: 250px;
-    left: 10px;
+    left: 400px;
     width: 100px;
+    text-align:center;
 }
 
