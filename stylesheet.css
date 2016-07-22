@@ -6,11 +6,12 @@ table {
     position: center;
 }
 #art {
-    text-align: center
+    text-align: center;
     /*position: relative;
      top: 250px;
     left: 100px;
-    width: 100px;*/
+    */
+    width: 100px;
 }
 #comic {
     position:absolute;
