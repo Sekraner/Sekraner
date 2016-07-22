@@ -8,9 +8,11 @@ table {
 #art {
     text-align: center;
     /*position: relative;
-     top: 250px;
-    left: 100px;
+     
+   
     */
+     left: 100px;
+    top: 250px;
     width: 100px;
 }
 #comic {
