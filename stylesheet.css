@@ -7,11 +7,13 @@ table {
 }
 #art {
     position: relative;
+     top: 500px;
     left: 100px;
     width: 100px;
 }
 #comic {
     position:relative;
+    top: 500px;
     left: 200px;
     width: 100px;
 }
