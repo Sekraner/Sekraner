@@ -5,7 +5,7 @@ body {
 table {
     position: center;
 }
-id= art {
+#art {
     position: relative;
     left: 10px;
     
