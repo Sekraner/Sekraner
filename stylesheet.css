@@ -6,10 +6,9 @@ body {
 div {
    
 
-    display:block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100px;
+   display: table; /* shrink wrap the contents */
+    margin: 0 auto; /* center via left/right margins */
+    width:100px;
   
 }
 #comic {
