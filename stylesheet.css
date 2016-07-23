@@ -6,7 +6,7 @@ body {
 div {
    
 
-   display: inline-table; /* shrink wrap the contents */
+   display: table; /* shrink wrap the contents */
     margin: auto; /* center via left/right margins */
     
   
