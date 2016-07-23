@@ -5,26 +5,22 @@ body {
 table {
     position: center;
 }
-img.art {
-    display:inline-block;
-    margin-left:auto;
-    margin-right:auto;
-    width:50%;
-    height:50%;
+#art {
+   
 
-    /*display:inline-block;
+    display:block;
     margin-left: auto;
-    margin-right: auto;*/
+    margin-right: auto
    /* position: relative;
     left: 100px;
     top: 250px;*/ 
     width: 100px;
   
-}/*
+}
 #comic {
     display: block;
     margin: auto;
     width: 100px;
-    */
+    
 }
 
