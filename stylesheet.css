@@ -2,17 +2,8 @@
 body {
     background-color: white;
 }
-table {
-    margin-right: auto;
-    margin-left: auto;
-}
-.image {
-    
-    width: 100px;
-   
-}
 
-/*#art {
+#art {
    
 
     display:block;
@@ -26,5 +17,4 @@ table {
     margin: auto;
     width: 100px;
     
-}*/
-
+}
