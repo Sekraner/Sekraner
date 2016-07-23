@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+		<link href='https://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
+			<link type="text/css" rel="stylesheet" href="stylesheet.css" />
+			<title>Krane </title>
+			
+		 </head>
+		 <body>
+		 	<div style= center>
+		 <a href="/krane">
+		 	<img id="comic" src="http://i38.photobucket.com/albums/e142/sphill2/fin0002_zpsjqm1wocn.jpg" alt=""/>
+		 	</div>
+	<p> <a href="/krane-1">back</a> | <a href="/krane/page-3">forward</a></p>
+		</body>
+	</html>
