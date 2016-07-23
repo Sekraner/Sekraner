@@ -8,7 +8,7 @@
 	float: right;
 }
 .wrapper a {
-	margin: 2px;
+	margin: 20px;
 }
 .wrapper img {
 	border: 1px solid #000;
@@ -30,9 +30,9 @@
 }
 .wrapper .full-image {
 	display: none;
-	position: absolute;
+	position: relative;
 	top: 0;
-	left: 0;
+	left: 20px;
 }
 .wrapper .description {
 	width:95%;
