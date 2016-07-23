@@ -11,6 +11,11 @@ div {
     
   
 }
+#art {
+    display: block;
+    margin: auto;
+    Width: 100px;
+}
 #comic {
     display: block;
     margin: auto;
