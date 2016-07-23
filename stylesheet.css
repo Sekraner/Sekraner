@@ -12,9 +12,7 @@ div {
   
 }
 #art {
-    /*display: block;
-    margin: auto;*/
-    Width: 200px;
+    Width: 200px; /* control the size of the two icons*/
 }
 #comic {
     display: block;
