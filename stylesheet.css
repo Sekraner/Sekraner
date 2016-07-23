@@ -7,8 +7,14 @@ table {
 }
 img.art {
     display:inline-block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+    height:50%;
+
+    /*display:inline-block;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto;*/
    /* position: relative;
     left: 100px;
     top: 250px;*/ 
