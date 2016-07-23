@@ -19,6 +19,15 @@ div {
 #art {
     Width: 200px; /* control the size of the two icons*/
 }
+div {
+   
+
+   display: table; /* shrink wrap the contents */
+    margin: auto; /* center via left/right margins */
+    padding: 100px;
+    
+  
+}
 #comic {
   
     width: 600px;
