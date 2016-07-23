@@ -6,7 +6,7 @@ table {
     position: center;
 }
 #art {
-    display:inline-block;
+    display:block;
     margin: auto;
    /* position: relative;
     left: 100px;
