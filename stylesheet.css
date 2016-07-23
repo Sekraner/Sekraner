@@ -8,7 +8,7 @@ div {
 
    display: table; /* shrink wrap the contents */
     margin: auto; /* center via left/right margins */
-    width: 16rem;
+    width: 2rem;
   
 }
 #comic {
