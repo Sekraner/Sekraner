@@ -20,8 +20,7 @@ div {
     Width: 200px; /* control the size of the two icons*/
 }
 #comic {
-    display: block;
-    margin: auto;
-    width: 100px;
+  
+    width: 600px;
     
 }
