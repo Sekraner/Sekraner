@@ -6,21 +6,18 @@ table {
     position: center;
 }
 #art {
-    display: block;
+    display:inline-block;
     margin: auto;
    /* position: relative;
     left: 100px;
     top: 250px;*/ 
     width: 400px;
   
-}
+}/*
 #comic {
     display: block;
     margin: auto;
-    /*position:relative;
-    top: 250px;
-    left: 400px;*/
     width: 100px;
-    
+    */
 }
 
