@@ -1,7 +1,7 @@
 .wrapper {
 	width: 700px;
 	position: relative;
-	left 20 px
+	left: 20px;
 }
 .wrapper .thumbnails {
 	width: 150px;
