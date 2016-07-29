@@ -1,5 +1,5 @@
 .wrapper {
-	width: 500px;
+	width: 700px;
 	position: relative;
 
 }
@@ -29,6 +29,7 @@
 	opacity: 1;
 }
 .wrapper .full-image {
+	width: 300px;
 	display: none;
 	position: relative;
 	top: 0;
