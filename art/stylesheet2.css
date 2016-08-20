@@ -1,12 +1,13 @@
-.wrapper {
-	width: 500px;
-	position: left;
-
 }
 .wrapper .thumbnails {
 	width: 150px;
 	float: left;
 }
+.wrapper {
+	width: 500px;
+	position: left;
+
+
 .wrapper a {
 	margin: 2px;
 }
