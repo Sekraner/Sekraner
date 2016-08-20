@@ -1,13 +1,15 @@
-.wrapper .thumbnails {
-	width: 150px;
-	float: right;
-}
 
 
 .wrapper {
 	width: 500px;
 	position: left;
 }
+
+.wrapper .thumbnails {
+	width: 150px;
+	float: right;
+}
+
 
 
 .wrapper a {
